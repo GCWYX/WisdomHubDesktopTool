@@ -50,7 +50,7 @@ python WisdomHub_Desktop_Tool.py
 
 [⬇ Click Here to Download](../../releases)
 
-> ⚠️ Note: Some features (Explorer restart, icon cache repair) require **administrator privileges**.
+⚠️ Note: Some features (Explorer restart, icon cache repair) require **administrator privileges**.
 
 ---
 
@@ -67,3 +67,4 @@ python WisdomHub_Desktop_Tool.py
 If you like this project, please consider giving it a ⭐ on GitHub!  
 
 It helps the project grow and reach more users 🚀
+
